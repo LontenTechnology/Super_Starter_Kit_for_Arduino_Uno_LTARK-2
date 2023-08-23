@@ -1,11 +1,11 @@
 ## Super_Starter_Kit_for_Arduino_Uno_LTARK-2
->LAFVIN Starter Kit for Arduino UNO R3 Ultimate Starter Set Full Version Learning DIY Kit Project for UNO with Tutorials LTARK-2
+>Super Starter Kit for Arduino UNO R3 Ultimate Starter Set Full Version Learning DIY Kit Project for UNO with Tutorials LTARK-2
 
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
-https://github.com/LontenTechnology/Smart_Home_Learning_Kit
+https://github.com/LontenTechnology/Super_Starter_Kit_for_Arduino_Uno_LTARK-2
 
-<img src='Picture/Smart-Home-Kit-for-Arduino.jpg' width='100%'/>
+<img src='Picture/Super Starter Kit for Arduino Uno.png' width='100%'/>
 
 ### Download
 
@@ -13,7 +13,7 @@ https://github.com/LontenTechnology/Smart_Home_Learning_Kit
 
 	Run following command to download all the files in this repository.
 
-	`git clone https://github.com/LontenTechnology/Smart_Home_Learning_Kit.git`
+	`git clone https://github.com/LontenTechnology/Super_Starter_Kit_for_Arduino_Uno_LTARK-2.git`
 
 * **Manually download in browser**
 
